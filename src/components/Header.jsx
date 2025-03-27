@@ -8,7 +8,7 @@ const Header = () => {
         <div className="header-container">
             <Link to={'/'}>
                 <h1>
-                    All Recipes
+                Recipify
                     <GiSpoon />
                 </h1>
             </Link>
